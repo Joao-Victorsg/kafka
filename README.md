@@ -1,0 +1,1 @@
+This is a project to study distributed event streaming with Apache Kafka. 
